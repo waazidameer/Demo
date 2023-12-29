@@ -8,6 +8,6 @@ with col1:
   st.write("persian cats are Cute")
 with col2:
   st.subheader("ragdoll Cat")
-  st.image("./ragdoll.jpg",width=300,caption="persian cat",use_column_width=True)
+  st.image("./ragdoll.jpg",width=300,caption="ragdoll cat",use_column_width=True)
   st.write("ragdoll cats are Cute")
   
